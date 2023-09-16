@@ -13,3 +13,10 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
+## Docs
+
+See our [docs and guides here](https://electron-react-boilerplate.js.org/docs/installation)
+
+## Community
+
+Join our Discord: https://discord.gg/koo_kuu
